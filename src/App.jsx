@@ -13,7 +13,7 @@ import DashboardMerchant from "./pages/Provider/DashboardMerchant";
 import DashboardServiceProdiver from "./pages/Provider/DashboardServiceProdiver";
 import Categories from "./pages/Provider/Categories";
 import SevicesProvider from "./pages/Provider/SevicesProvider";
-import Users from "./pages/Provider/Users";
+import Users from "./pages/Provider/Users";         
 import PaymentHistory from "./pages/Provider/PaymentHistory";
 import Subscriptions from "./pages/Provider/Subscriptions";
 import Promocodes from "./pages/Provider/Promocodes";
